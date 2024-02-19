@@ -1085,6 +1085,7 @@ else
 fi
 ```
 ## OUTPUT 
+[Os_Ep01 veeraragavan.pdf](https://github.com/veerargavanv27/OS-Linux-commands-Shell-script/files/14335297/Os_Ep01.veeraragavan.pdf)
 
 
 # RESULT:
