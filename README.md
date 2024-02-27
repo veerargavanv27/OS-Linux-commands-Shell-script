@@ -1085,7 +1085,8 @@ else
 fi
 ```
 ## OUTPUT 
-[Uploading Os_Ep01.pdf…]()
+[Os_Ep01.pdf](https://github.com/veerargavanv27/OS-Linux-commands-Shell-script/files/14414635/Os_Ep01.pdf)
+
 
 # RESULT:
 The Commands are executed successfully.
